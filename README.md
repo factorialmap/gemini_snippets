@@ -1,6 +1,6 @@
 # CodeSnippets
 
-This repository contains a collection of reusable code snippets desinged to help developers speed up their workflow and share best practices.
+This repository contains a collection of reusable code snippets using Google DeepMind Gemini Models.
 
 ## Project Structure
 
@@ -13,10 +13,9 @@ This repository contains a collection of reusable code snippets desinged to help
  └── README.md
  ```
 
--   `snippets/`: contains categorized code snippets by language.
--   `docs/`: Additional documentation on usage and contribution.
--   `LICENSE`: Project License.
--   `CONTRIBUTING.md`: Guidelines for cotributing new snippets.
+-   `snippets/`: code snippets using Python.
+-   `docs/`: Additional documentation.
+-   `README.md`: Info about this project
 
 ## Purpose
 
@@ -25,4 +24,3 @@ This repository aims to centralize useful code snippets, promote clean coding pr
 ## Supported Languages
 
 -   Python
--   R
